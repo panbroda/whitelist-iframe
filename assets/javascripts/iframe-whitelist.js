@@ -1,4 +1,4 @@
 (function() {
-  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/paga\.ninja\/.+/i);
+  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/paga\.ninja\?.+/i);
 })();
 
